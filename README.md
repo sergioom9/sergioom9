@@ -3,7 +3,9 @@
 ## 👨‍💻 Sobre mí
 
 ¡Bienvenido! Soy un estudiante de Ingeniería Informática. Me apasiona la programacion y siempre estoy aprendiendo cosas nuevas, poco a poco seguire completando mi perfil de github.
-<a href="https://wakatime.com/@sergioom9"> <img src="https://wakatime.com/badge/user/018b821c-d9fc-42c8-b52e-7adba12899a1.svg" alt="Wakatime Badge" > </a>
+
+
+<a href="https://wakatime.com/@sergioom9"> <img src="https://wakatime.com/badge/user/89bc199f-a6e2-4a7a-96fb-a9b8860eda0f.svg" alt="Wakatime Badge" > </a>
 
 
 ## 🎓 Educación
