@@ -2,9 +2,8 @@
 
 ## 👨‍💻 Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un estudiante de Ingeniería Informática. Siempre estoy explorando nuevas herramientas y metodologías para mejorar mis habilidades y contribuir a proyectos innovadores.
+¡Bienvenido! Soy un estudiante de Ingeniería Informática. Me apasiona la programacion y siempre estoy aprendiendo cosas nuevas, poco a poco seguire completando mi perfil de github.
 
-Ubicación: Madrid, España
 
 ## 🎓 Educación
 
@@ -30,19 +29,19 @@ Ubicación: Madrid, España
 
 ## 🌱 Actualmente Aprendiendo
 
-- C#
-- Machine Learning
-- Docker
+- Bash
+- Anti-bot security
+- Encrypt/Decrypt
 
 ## 💬 ¡Hablemos!
 
-- **LinkedIn**: ]()
-- **Email**: [](mailto:)
+- **LinkedIn**: [Here](https://www.linkedin.com/in/sergio-martin-de-la-fuente/)
+- **Email**: [Here](mailto:sseergiioo9@gmail.com)
 
 ## 📈 Objetivos Personales
 
-- **Desarrollo y mejora continua de habilidades en programación y tecnología.**
-- **Contribuir a proyectos de código abierto y colaborar con otros desarrolladores.**
+- **Desarrollo y mejora continua de habilidades en seguridad web y prograacion.**
+- **Aprendizaje nuevo en proyectos externos.**
 
 ## 📊 Estadísticas de GitHub
 
