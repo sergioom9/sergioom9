@@ -20,10 +20,10 @@
 
 ## 🧩 Proyectos Destacados
 
-### []()
-- **Descripción**: .
-- **Tecnologías usadas**: 
-- **Última actualización**: 
+### [Comic-Graphql-Server](https://github.com/sergioom9/Comics-Graphql-Server)
+- **Descripción**: Api con Graphql en la que hacemos uso de encadenados para la gestion y visualizacion de la informacion .
+- **Tecnologías usadas**: GraphQL, Apollo Server , Deno, MongoDB
+- **Última actualización**: 26/06/2024
 
 ### []()
 - **Descripción**: .
@@ -49,11 +49,6 @@
 ## 📊 Estadísticas de GitHub
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioom9&show_icons=true&theme=radical)
-
-## 📌 Pin de repositorios
-
-- []()
-- []()
 
 ---
 
