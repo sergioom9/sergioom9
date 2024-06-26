@@ -22,13 +22,13 @@
 
 ### [Comic-Graphql-Server](https://github.com/sergioom9/Comics-Graphql-Server)
 - **Descripción**: Api con Graphql en la que hacemos uso de encadenados para la gestion y visualizacion de la informacion .
-- **Tecnologías usadas**: GraphQL, Apollo Server , Deno, MongoDB
+- **Tecnologías usadas**: Typescript, GraphQL, Apollo Server , Deno, MongoDB
 - **Última actualización**: 26/06/2024
 
-### []()
-- **Descripción**: .
-- **Tecnologías usadas**: 
-- **Última actualización**: 
+### [API-MATRICULA](https://github.com/sergioom9/API-MATRICULAS)
+- **Descripción**: Da informacion detallada sobre una matricula que le pases como query .
+- **Tecnologías usadas**: Typescript , Deno 
+- **Última actualización**: 26/06/2024
 
 ## 🌱 Actualmente Aprendiendo
 
