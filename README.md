@@ -1,5 +1,3 @@
-## Hola soy Sergio, bienvenido a mi Github 👋
-
 ## 👨‍💻 Sobre mí
 
 ¡Hola! Me apasiona la programacion y siempre estoy aprendiendo cosas nuevas, actualmente soy Ingeniero Informatico y estoy especializandome en ciberseguridad.
