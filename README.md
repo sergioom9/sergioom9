@@ -45,12 +45,9 @@
 ## 📈 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,php,nodejs,express,js" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react"/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github"/><br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,aws,postman"/><br/>
-<img src="https://skillicons.dev/icons?i=npm,deno,bash,linux,jenkins"/><br/>
-<img src="https://skillicons.dev/icons?i=kali,kubernetes,cpp,python,go"/><br/>
+<img src="https://skillicons.dev/icons?i=java,php,nodejs,express,js,html,css,tailwind,ts,react" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode,idea,webstorm,aws,postman"/><br/>
+<img src="https://skillicons.dev/icons?i=npm,deno,bash,linux,jenkins,kali,kubernetes,cpp,python,go"/><br/>
 </div>
 
 
