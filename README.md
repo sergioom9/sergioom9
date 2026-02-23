@@ -16,7 +16,7 @@
 - **Lenguajes de Programación**: TypeScript, Java, C, C++, Python, CSS, HTML, React, Shell, SQL
 - **Frameworks y Librerías**: Preact, Deno, MathPlotLib, Pandas, Numpy, Express, Nodejs
 - **Herramientas y Plataformas**: GitHub, Deno Deploy, MongoDB, Docker, Kubernetes, Nginx, AWS.
-- *+Ciberseguridad**: OWASP, Sniffing, Reversing, Anti-Bot Sec, Criptografia, Pentesting.
+- **Ciberseguridad**: OWASP, Sniffing, Reversing, Anti-Bot Sec, Criptografia, Pentesting.
 
 ## 🧩 Proyectos Destacados
 
