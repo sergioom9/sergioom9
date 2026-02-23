@@ -24,10 +24,10 @@
 - **Descripción**: Api con Graphql en la que hacemos uso de encadenados para la gestion y visualizacion de la informacion .
 - **Tecnologías usadas**: Typescript, GraphQL, Apollo Server , Deno, MongoDB
 
-### [TRENFE-WEB](https://github.com/sergioom9/Renfe_FrontEnd)
-- **Descripción**: Web Reactiva con Preact con funcionalidades similares a Renfe (Empresa Ferroviaria) .
+### [TRENFE](https://github.com/orgs/TRENFE/repositories)
+- **Descripción**: Aplicacion Web con funcionalidades similares a Renfe (Empresa Ferroviaria) .
 - **Tecnologías usadas**: Typescript , Deno Fresh, JWT, Hashing, Signals, States, Hooks...
-- **Intranet**: La web cuenta con una intranet que se encuentra en el repositorio  [TRENFE-INTRANET](https://github.com/sergioom9/Renfe_Intranet)
+- **Intranet**: La web cuenta con una intranet .
 
 ## 🌱 Actualmente Aprendiendo
 
