@@ -1,39 +1,42 @@
 ## 👨‍💻 Sobre mí
 
-¡Hola! Me apasiona la programacion y siempre estoy aprendiendo cosas nuevas, actualmente soy Ingeniero Informatico y estoy especializandome en ciberseguridad.
+¡Hola! Me apasiona la programación y siempre estoy aprendiendo cosas nuevas.  
+Actualmente soy **Ingeniero Informático** y me estoy especializando en **Ciberseguridad**.
 
-
-<a href="https://wakatime.com/@sergioom9"> <img src="https://wakatime.com/badge/user/89bc199f-a6e2-4a7a-96fb-a9b8860eda0f.svg" alt="Wakatime Badge" > </a>
-
+<a href="https://wakatime.com/@sergioom9">
+  <img src="https://wakatime.com/badge/user/89bc199f-a6e2-4a7a-96fb-a9b8860eda0f.svg" alt="Wakatime Badge">
+</a>
 
 ## 🎓 Educación
 
-- **Grado en Ingeniería Informática** - Universidad Nebrija (Fecha de finalización: 2026)
-- **Master Ciberseguridad** - (Proximamente)
+- **Ingeniería Informática** - Universidad Nebrija
+- **Máster en Ciberseguridad** - (Próximamente)
 
 ## 🚀 Habilidades
 
-- **Lenguajes de Programación**: TypeScript, Java, C, C++, Python, CSS, HTML, React, Shell, SQL
-- **Frameworks y Librerías**: Preact, Deno, MathPlotLib, Pandas, Numpy, Express, Nodejs
-- **Herramientas y Plataformas**: GitHub, Deno Deploy, MongoDB, Docker, Kubernetes, Nginx, AWS.
-- **Ciberseguridad**: OWASP, Sniffing, Reversing, Anti-Bot Sec, Criptografia, Pentesting.
+- **Lenguajes de Programación**: TypeScript, JavaScript, Java, C, C++, Python, CSS, HTML, React, Shell, SQL
+- **Frameworks y Librerías**: Preact, Deno, Matplotlib, Pandas, NumPy, Express, Node.js
+- **Herramientas y Plataformas**: GitHub, Deno Deploy, MongoDB, Docker, Kubernetes, Nginx, AWS
+- **Ciberseguridad**: OWASP, Sniffing, Reversing, Anti-Bot Security, Criptografía, Pentesting
 
 ## 🧩 Proyectos Destacados
 
-### [Comic-Graphql-Server](https://github.com/sergioom9/Comics-Graphql-Server)
-- **Descripción**: Api con Graphql en la que hacemos uso de encadenados para la gestion y visualizacion de la informacion .
-- **Tecnologías usadas**: Typescript, GraphQL, Apollo Server , Deno, MongoDB
+### [IMG2MAIL](https://github.com/IMG2MAIL)
+- **Descripción**: Plataforma para enviar imágenes por correo y generar envíos en PDF, con arquitectura separada en frontend y backend.
+- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, Nodemailer, PDF-lib
 
-### [TRENFE](https://github.com/orgs/TRENFE/repositories)
-- **Descripción**: Aplicacion Web con funcionalidades similares a Renfe (Empresa Ferroviaria) .
-- **Tecnologías usadas**: Typescript , Deno Fresh, JWT, Hashing, Signals, States, Hooks...
-- **Intranet**: La web cuenta con una intranet .
+### [TRENFE](https://github.com/TRENFE)
+- **Descripción**: Aplicación web con funcionalidades similares a Renfe, incluyendo zona pública, backend de negocio e intranet de administración.
+- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, JWT, MongoDB, Signals, Hooks
+
+### [KUBERSCAN](https://github.com/KUBERSCAN)
+- **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
+- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
 
 ## 🌱 Actualmente Aprendiendo
 
 - Pentesting
 - Ciberseguridad
-- Go
 
 ## 💬 ¡Hablemos!
 
@@ -43,11 +46,10 @@
 ## 📈 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,php,nodejs,express,js,html,css,tailwind,ts,react" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode,idea,webstorm,aws,postman"/><br/>
-<img src="https://skillicons.dev/icons?i=npm,deno,bash,linux,jenkins,kali,kubernetes,cpp,python,go"/><br/>
+  <img src="https://skillicons.dev/icons?i=java,php,nodejs,express,js,html,css,tailwind,ts,react" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,vscode,idea,webstorm,aws,postman"/><br/>
+  <img src="https://skillicons.dev/icons?i=npm,deno,bash,linux,jenkins,kali,kubernetes,cpp,python,go"/><br/>
 </div>
-
 
 ---
 
