@@ -21,7 +21,7 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 
 ## 🧩 Proyectos Destacados
 
-### [KUBERSCAN](https://github.com/KUBERSCAN)
+### <img src="https://github.com/KUBERSCAN.png?size=32" width="20" height="20" alt="KUBERSCAN logo" /> [KUBERSCAN](https://github.com/KUBERSCAN)
 - **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
 
