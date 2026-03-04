@@ -21,10 +21,6 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 
 ## 🧩 Proyectos Destacados
 
-### [IMG2MAIL](https://github.com/IMG2MAIL)
-- **Descripción**: Plataforma para enviar imágenes por correo y generar envíos en PDF, con arquitectura separada en frontend y backend.
-- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, Nodemailer, PDF-lib
-
 ### [TRENFE](https://github.com/TRENFE)
 - **Descripción**: Aplicación web con funcionalidades similares a Renfe, incluyendo zona pública, backend de negocio e intranet de administración.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, JWT, MongoDB, Signals, Hooks
@@ -32,6 +28,10 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 ### [KUBERSCAN](https://github.com/KUBERSCAN)
 - **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
+
+### [IMG2MAIL](https://github.com/IMG2MAIL)
+- **Descripción**: Plataforma para enviar imágenes por correo y generar envíos en PDF, con arquitectura separada en frontend y backend.
+- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, Nodemailer, PDF-lib
 
 ## 🌱 Actualmente Aprendiendo
 
