@@ -25,11 +25,11 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 - **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
 
-### [TRENFE](https://github.com/TRENFE)
+### <img src="https://github.com/TRENFE.png?size=32" width="20" height="20" alt="TRENFE logo" /> [TRENFE](https://github.com/TRENFE)
 - **Descripción**: Aplicación web con funcionalidades similares a Renfe, incluyendo zona pública, backend de negocio e intranet de administración.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, JWT, MongoDB, Signals, Hooks
   
-### [IMG2MAIL](https://github.com/IMG2MAIL)
+### <img src="https://github.com/IMG2MAIL.png?size=32" width="20" height="20" alt="IMG2MAIL logo" /> [IMG2MAIL](https://github.com/IMG2MAIL)
 - **Descripción**: Plataforma para enviar imágenes por correo y generar envíos en PDF, con arquitectura separada en frontend y backend.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, Nodemailer, PDF-lib
 
