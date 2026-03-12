@@ -24,19 +24,23 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 ### <img src="https://github.com/KUBERSCAN.png?size=32" width="20" height="20" alt="KUBERSCAN logo" /> [KUBERSCAN](https://github.com/KUBERSCAN)
 - **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
-
+- [Ir a KuberScan](https://kuberscan-frontend.sergioom9.deno.net)
+  
 ### <img src="https://github.com/CKNOWME.png?size=32" width="20" height="20" alt="CKNOWME logo" /> [CKNOWME](https://github.com/CKNOWME)
 - **Descripción**: Plataforma de verificación y publicación de certificaciones profesionales que permite descubrir perfiles cualificados por habilidades y áreas de conocimiento.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB
-
+- [Ir a CKNOWME](https://cknowme-frontend.sergioom9.deno.net)
+  
 ### <img src="https://github.com/TRENFE.png?size=32" width="20" height="20" alt="TRENFE logo" /> [TRENFE](https://github.com/TRENFE)
 - **Descripción**: Aplicación web con funcionalidades similares a Renfe, incluyendo zona pública, backend de negocio e intranet de administración.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, JWT, MongoDB, Signals, Hooks
+- [Ir a TrenFe](https://renfe-frontend.sergioom9.deno.net)
   
 ### <img src="https://github.com/IMG2MAIL.png?size=32" width="20" height="20" alt="IMG2MAIL logo" /> [IMG2MAIL](https://github.com/IMG2MAIL)
 - **Descripción**: Plataforma para enviar imágenes por correo y generar envíos en PDF, con arquitectura separada en frontend y backend.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, Nodemailer, PDF-lib
-
+- [Ir a IMG2MAIL](https://frontend-img2mail.sergioom9.deno.net/upload)
+  
 ## 🌱 Actualmente Aprendiendo
 
 - Pentesting
