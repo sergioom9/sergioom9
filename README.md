@@ -25,6 +25,10 @@ Actualmente soy **Ingeniero Informático** y me estoy especializando en **Cibers
 - **Descripción**: Plataforma orientada a seguridad en Kubernetes con monitorización de alertas, gestión de incidentes y escaneo estático/dinámico.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB, Kubernetes, Docker
 
+### <img src="https://github.com/CKNOWME.png?size=32" width="20" height="20" alt="CKNOWME logo" /> [CKNOWME](https://github.com/CKNOWME)
+- **Descripción**: Plataforma de verificación y publicación de certificaciones profesionales que permite descubrir perfiles cualificados por habilidades y áreas de conocimiento.
+- **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, MongoDB
+
 ### <img src="https://github.com/TRENFE.png?size=32" width="20" height="20" alt="TRENFE logo" /> [TRENFE](https://github.com/TRENFE)
 - **Descripción**: Aplicación web con funcionalidades similares a Renfe, incluyendo zona pública, backend de negocio e intranet de administración.
 - **Tecnologías usadas**: TypeScript, Deno, Fresh, Express, JWT, MongoDB, Signals, Hooks
